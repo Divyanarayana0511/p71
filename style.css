@@ -1,0 +1,57 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.programs_main {
+    width: auto;
+    height: auto;
+    background-color: beige;
+}
+
+.container {
+    display: flex
+}
+
+.title-head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.title-head i {
+    float: right;
+}
+
+.page-header2 {
+    display: inline-flex;
+    align-content: center;
+}
+
+.container3 {
+    height: auto;
+    width: 100%;
+}
+
+.newheading {
+    font-weight: 400px;
+}
+
+.img-responsive {
+    height: 200px;
+}
+
+#books {
+    height: auto;
+    width: 100%;
+}
+
+.book {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 30px;
+}
